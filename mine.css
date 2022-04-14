@@ -1,0 +1,29 @@
+/* h1{
+    color: pink;
+} */
+/* 
+.nav {
+    background-color: black;
+    overflow: hidden;
+}
+
+.nav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.nav a:hover {
+    background-color: #04AA6D;
+  color: white;
+} */
+p{
+  background-image: url(./images/ilya-shishikhin-__qT7mVH-J8-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
